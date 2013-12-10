@@ -128,7 +128,7 @@ then
   rm ~/.vimrc
 fi
 
-git clone git://github.com/padenot/.vim
+git clone git://github.com/rlustin/.vim
 
 if [ $? ]
 then
