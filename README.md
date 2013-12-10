@@ -1,10 +1,10 @@
-# Paul's .vim directory
+# Raphael's .vim directory
 
 ## tl;dr 
 Paste this into a terminal, if you are using Debian or Ubuntu :
 
 ``
-wget https://github.com/padenot/.vim/raw/master/bootstrap.sh -O - | sh
+wget https://github.com/rlustin/.vim/raw/master/bootstrap.sh -O - | sh
 ``
 
 This will download the config files, and make sure that dependancies are
