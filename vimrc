@@ -195,10 +195,10 @@ augroup END
 cmap w!! w !sudo tee % >/dev/null
 
 " Disable arrows in normal mode
-noremap <up> <nop>
-noremap <down> <nop>
-noremap <left> <nop>
-noremap <right> <nop>
+"noremap <up> <nop>
+"noremap <down> <nop>
+"noremap <left> <nop>
+"noremap <right> <nop>
 " control+j & control+k switch tabs
 noremap <C-J> :silent :bp<CR><Esc>
 noremap <C-K> :silent :bn<CR><Esc>
